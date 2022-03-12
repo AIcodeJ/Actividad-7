@@ -1,7 +1,7 @@
 # Algortimos
 
 _Esto es un programa de 
-para sacar sucesiones para nuermos primos y Fibonacci hecho en Java_
+para sacar sucesiones para numeros primos y Fibonacci hecho en Java_
 
 ## Comenzando 🚀
 
